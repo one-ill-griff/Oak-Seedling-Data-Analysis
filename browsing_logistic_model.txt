@@ -1,0 +1,7 @@
+Logistic model for browsed_flag
+AUC: 0.7129
+Coefficients:
+height_cm: 0.060256
+canopy_score: 0.000000
+is_red: -0.235790
+site_is_fern: -1.206071

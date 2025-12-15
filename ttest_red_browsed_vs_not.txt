@@ -1,0 +1,1 @@
+T-test red oak height browsed vs not: t=4.801, p=2.91002e-06

@@ -1,0 +1,19 @@
+Site,oak_group,level_2,Browsed_clean
+Fern Station,non_oak,n_total,51
+Fern Station,non_oak,n_browsed,21
+Fern Station,non_oak,prop_browsed,0.411764706
+Fern Station,red_oak,n_total,291
+Fern Station,red_oak,n_browsed,48
+Fern Station,red_oak,prop_browsed,0.164948454
+Fern Station,white_oak,n_total,137
+Fern Station,white_oak,n_browsed,37
+Fern Station,white_oak,prop_browsed,0.270072993
+Nature Park,non_oak,n_total,151
+Nature Park,non_oak,n_browsed,0
+Nature Park,non_oak,prop_browsed,0
+Nature Park,red_oak,n_total,314
+Nature Park,red_oak,n_browsed,96
+Nature Park,red_oak,prop_browsed,0.305732484
+Nature Park,white_oak,n_total,2
+Nature Park,white_oak,n_browsed,0
+Nature Park,white_oak,prop_browsed,0
