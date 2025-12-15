@@ -1,0 +1,1 @@
+Predicted probability that a red oak seedling is recorded as browsed, plotted against seedling height. Logistic regression fit separately by site; binned empirical proportions overplotted.

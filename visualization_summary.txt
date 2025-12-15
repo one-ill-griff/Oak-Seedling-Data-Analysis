@@ -1,0 +1,3 @@
+Total records: 946
+Red oak seedlings: 452
+Records with browse label: 580

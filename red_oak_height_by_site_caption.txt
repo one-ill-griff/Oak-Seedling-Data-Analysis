@@ -1,0 +1,1 @@
+Red oak seedling height distributions at Fern Station vs Nature Park. Boxplot and kernel density estimate shown.

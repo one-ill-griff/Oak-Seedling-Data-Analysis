@@ -1,0 +1,1 @@
+Counts of individuals in each life stage (Seedling, Sapling, Adult) for each oak group and site.

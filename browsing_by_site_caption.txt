@@ -1,0 +1,1 @@
+Proportion of observations recorded as browsed (binary) at Fern Station and Nature Park. Wilson 95% confidence intervals shown.
