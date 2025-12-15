@@ -1,0 +1,947 @@
+RowID,Diameter(cm),Height(cm),Date,Location,Species,Browsed,Coordinates,Notes,CanopyScore,Browsed_raw,Browsed_norm,height_cm,diam_cm,canopy_score,LifeStage,Species_code,oak_group,Site
+0,,100,8/?/24,W2,SAAL,Unkown,Unknown,1st Transect on W2,,Unkown,Unknown,100.0,,,Seedling,SAAL,non_oak,Nature Park
+1,,60,8/?/24,W2,SAAL,Unkown,Unknown,|,,Unkown,Unknown,60.0,,,Seedling,SAAL,non_oak,Nature Park
+2,,40,8/?/24,W2,SAAL,Unkown,Unknown,|,,Unkown,Unknown,40.0,,,Seedling,SAAL,non_oak,Nature Park
+3,,30,8/?/24,W2,OSVI,Unkown,Unknown,|,,Unkown,Unknown,30.0,,,Seedling,OSVI,non_oak,Nature Park
+4,,15,8/?/24,W2,OSVI,Unkown,Unknown,|,,Unkown,Unknown,15.0,,,Seedling,OSVI,non_oak,Nature Park
+5,,30,8/?/24,W2,SAAL,Unkown,Unknown,|,,Unkown,Unknown,30.0,,,Seedling,SAAL,non_oak,Nature Park
+6,,40,8/?/24,W2,SAAL,Unkown,Unknown,|,,Unkown,Unknown,40.0,,,Seedling,SAAL,non_oak,Nature Park
+7,,60,8/?/24,W2,SAAL,Unkown,Unknown,|,,Unkown,Unknown,60.0,,,Seedling,SAAL,non_oak,Nature Park
+8,,70,8/?/24,W2,SAAL,Unkown,Unknown,|,,Unkown,Unknown,70.0,,,Seedling,SAAL,non_oak,Nature Park
+9,,70,8/?/24,W2,LITU,Unknown,Unknown,|,,Unknown,Unknown,70.0,,,Seedling,LITU,non_oak,Nature Park
+10,,25,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,25.0,,,Seedling,QURU,red_oak,Nature Park
+11,,150,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,150.0,,,Seedling,SAAL,non_oak,Nature Park
+12,,100,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,100.0,,,Seedling,SAAL,non_oak,Nature Park
+13,,50,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,50.0,,,Seedling,SAAL,non_oak,Nature Park
+14,,100,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,100.0,,,Seedling,SAAL,non_oak,Nature Park
+15,,80,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,80.0,,,Seedling,SAAL,non_oak,Nature Park
+16,,25,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,25.0,,,Seedling,QURU,red_oak,Nature Park
+17,,30,8/?/24,W2,LITU,Unknown,Unknown,|,,Unknown,Unknown,30.0,,,Seedling,LITU,non_oak,Nature Park
+18,,20,8/?/24,W2,LITU,Unknown,Unknown,|,,Unknown,Unknown,20.0,,,Seedling,LITU,non_oak,Nature Park
+19,,15,8/?/24,W2,LITU,Unknown,Unknown,|,,Unknown,Unknown,15.0,,,Seedling,LITU,non_oak,Nature Park
+20,,20,8/?/24,W2,ACSA,Unknown,Unknown,|,,Unknown,Unknown,20.0,,,Seedling,ACSA,non_oak,Nature Park
+21,,10,8/?/24,W2,OSVI,Unknown,Unknown,|,,Unknown,Unknown,10.0,,,Seedling,OSVI,non_oak,Nature Park
+22,,10,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,10.0,,,Seedling,QURU,red_oak,Nature Park
+23,,100,8/?/24,W2,OSVI,Unknown,Unknown,|,,Unknown,Unknown,100.0,,,Seedling,OSVI,non_oak,Nature Park
+24,,20,8/?/24,W2,ACSA,Unknown,Unknown,|,,Unknown,Unknown,20.0,,,Seedling,ACSA,non_oak,Nature Park
+25,,40,8/?/24,W2,OSVI,Unknown,Unknown,|,,Unknown,Unknown,40.0,,,Seedling,OSVI,non_oak,Nature Park
+26,,100,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,100.0,,,Seedling,SAAL,non_oak,Nature Park
+27,,100,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,100.0,,,Seedling,SAAL,non_oak,Nature Park
+28,,130,8/?/24,W2,OSVI,Unknown,Unknown,|,,Unknown,Unknown,130.0,,,Seedling,OSVI,non_oak,Nature Park
+29,,140,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,140.0,,,Seedling,SAAL,non_oak,Nature Park
+30,,30,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,30.0,,,Seedling,QURU,red_oak,Nature Park
+31,,30,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,30.0,,,Seedling,QURU,red_oak,Nature Park
+32,,20,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,20.0,,,Seedling,QURU,red_oak,Nature Park
+33,,50,8/?/24,W2,OSVI,Unknown,Unknown,|,,Unknown,Unknown,50.0,,,Seedling,OSVI,non_oak,Nature Park
+34,,50,8/?/24,W2,LITU,Unknown,Unknown,|,,Unknown,Unknown,50.0,,,Seedling,LITU,non_oak,Nature Park
+35,,40,8/?/24,W2,LITU,Unknown,Unknown,|,,Unknown,Unknown,40.0,,,Seedling,LITU,non_oak,Nature Park
+36,,50,8/?/24,W2,LITU,Unknown,Unknown,|,,Unknown,Unknown,50.0,,,Seedling,LITU,non_oak,Nature Park
+37,,30,8/?/24,W2,ASCA,Unknown,Unknown,|,,Unknown,Unknown,30.0,,,Seedling,ASCA,non_oak,Nature Park
+38,,30,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,30.0,,,Seedling,QURU,red_oak,Nature Park
+39,,40,8/?/24,W2,TIAM,Unknown,Unknown,|,,Unknown,Unknown,40.0,,,Seedling,TIAM,non_oak,Nature Park
+40,,40,8/?/24,W2,QUMU,Unknown,Unknown,|,,Unknown,Unknown,40.0,,,Seedling,QUMU,white_oak,Nature Park
+41,,30,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,30.0,,,Seedling,QURU,red_oak,Nature Park
+42,,40,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,40.0,,,Seedling,QURU,red_oak,Nature Park
+43,,40,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,40.0,,,Seedling,QURU,red_oak,Nature Park
+44,,130,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,130.0,,,Seedling,SAAL,non_oak,Nature Park
+45,,600,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,600.0,,,Sapling,SAAL,non_oak,Nature Park
+46,,130,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,130.0,,,Seedling,SAAL,non_oak,Nature Park
+47,,100,8/?/24,W2,OSVI,Unknown,Unknown,|,,Unknown,Unknown,100.0,,,Seedling,OSVI,non_oak,Nature Park
+48,,60,8/?/24,W2,TIAM,Unknown,Unknown,|,,Unknown,Unknown,60.0,,,Seedling,TIAM,non_oak,Nature Park
+49,,40,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,40.0,,,Seedling,SAAL,non_oak,Nature Park
+50,,35,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,35.0,,,Seedling,QURU,red_oak,Nature Park
+51,,180,8/?/24,W2,OSVI,Unknown,Unknown,|,,Unknown,Unknown,180.0,,,Seedling,OSVI,non_oak,Nature Park
+52,,10,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,10.0,,,Seedling,QURU,red_oak,Nature Park
+53,,80,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,80.0,,,Seedling,SAAL,non_oak,Nature Park
+54,,100,8/?/24,W2,OSVI,Unknown,Unknown,|,,Unknown,Unknown,100.0,,,Seedling,OSVI,non_oak,Nature Park
+55,,50,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,50.0,,,Seedling,SAAL,non_oak,Nature Park
+56,,100,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,100.0,,,Seedling,SAAL,non_oak,Nature Park
+57,,60,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,60.0,,,Seedling,SAAL,non_oak,Nature Park
+58,,30,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,30.0,,,Seedling,SAAL,non_oak,Nature Park
+59,,25,8/?/24,W2,SAAL,Unknown,Unknown,|,,Unknown,Unknown,25.0,,,Seedling,SAAL,non_oak,Nature Park
+60,,120,8/?/24,W2,OSVI,Unknown,Unknown,|,,Unknown,Unknown,120.0,,,Seedling,OSVI,non_oak,Nature Park
+61,,15,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,15.0,,,Seedling,QURU,red_oak,Nature Park
+62,,60,8/?/24,W2,OSVI,Unknown,Unknown,|,,Unknown,Unknown,60.0,,,Seedling,OSVI,non_oak,Nature Park
+63,,100,8/?/24,W2,OSVI,Unknown,Unknown,|,,Unknown,Unknown,100.0,,,Seedling,OSVI,non_oak,Nature Park
+64,,15,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,15.0,,,Seedling,QURU,red_oak,Nature Park
+65,,15,8/?/24,W2,CECA,Unknown,Unknown,|,,Unknown,Unknown,15.0,,,Seedling,CECA,non_oak,Nature Park
+66,,30,8/?/24,W2,OSVI,Unknown,Unknown,|,,Unknown,Unknown,30.0,,,Seedling,OSVI,non_oak,Nature Park
+67,,40,8/?/24,W2,OSVI,Unknown,Unknown,|,,Unknown,Unknown,40.0,,,Seedling,OSVI,non_oak,Nature Park
+68,,25,8/?/24,W2,QUMU,Unknown,Unknown,|,,Unknown,Unknown,25.0,,,Seedling,QUMU,white_oak,Nature Park
+69,,40,8/?/24,W2,CECA,Unknown,Unknown, ↓ ,,Unknown,Unknown,40.0,,,Seedling,CECA,non_oak,Nature Park
+70,,20,8/?/24,W2,QURU,Unknown,Unknown,"Same transect, opposite side of trail",,Unknown,Unknown,20.0,,,Seedling,QURU,red_oak,Nature Park
+71,,25,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,25.0,,,Seedling,QURU,red_oak,Nature Park
+72,,25,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,25.0,,,Seedling,QURU,red_oak,Nature Park
+73,,25,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,25.0,,,Seedling,QURU,red_oak,Nature Park
+74,,10,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,10.0,,,Seedling,QURU,red_oak,Nature Park
+75,,30,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,30.0,,,Seedling,QURU,red_oak,Nature Park
+76,,10,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,10.0,,,Seedling,QURU,red_oak,Nature Park
+77,,10,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,10.0,,,Seedling,QURU,red_oak,Nature Park
+78,,5,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,5.0,,,Seedling,QURU,red_oak,Nature Park
+79,,25,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,25.0,,,Seedling,QURU,red_oak,Nature Park
+80,,25,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,25.0,,,Seedling,QURU,red_oak,Nature Park
+81,,15,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,15.0,,,Seedling,QURU,red_oak,Nature Park
+82,,20,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,20.0,,,Seedling,QURU,red_oak,Nature Park
+83,,30,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,30.0,,,Seedling,QURU,red_oak,Nature Park
+84,,15,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,15.0,,,Seedling,QURU,red_oak,Nature Park
+85,,20,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,20.0,,,Seedling,QURU,red_oak,Nature Park
+86,,15,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,15.0,,,Seedling,QURU,red_oak,Nature Park
+87,,15,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,15.0,,,Seedling,QURU,red_oak,Nature Park
+88,,25,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,25.0,,,Seedling,QURU,red_oak,Nature Park
+89,,25,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,25.0,,,Seedling,QURU,red_oak,Nature Park
+90,,20,8/?/24,W2,QURU,Unknown,Unknown,|,,Unknown,Unknown,20.0,,,Seedling,QURU,red_oak,Nature Park
+91,,25,8/?/24,W2,QURU,Unknown,Unknown,↓,,Unknown,Unknown,25.0,,,Seedling,QURU,red_oak,Nature Park
+92,,30,?/?/24,?,R,B,Unknown,,,B,Browsed,30.0,,,Seedling,R,red_oak,Nature Park
+93,,20,?/?/24,?,R,B,Unknown,,,B,Browsed,20.0,,,Seedling,R,red_oak,Nature Park
+94,,>200,?/?/25,?,R,B,Unknown,,,B,Browsed,,,,Unknown,R,red_oak,Nature Park
+95,,>200,?/?/24,?,R,B,Unknown,,,B,Browsed,,,,Unknown,R,red_oak,Nature Park
+96,,25,?/?/24,?,R,N,Unknown,,,N,Not browsed,25.0,,,Seedling,R,red_oak,Nature Park
+97,,30,?/?/24,?,R,B,Unknown,,,B,Browsed,30.0,,,Seedling,R,red_oak,Nature Park
+98,,10,?/?/24,?,R,B,Unknown,,,B,Browsed,10.0,,,Seedling,R,red_oak,Nature Park
+99,,30,?/?/24,?,R,B,Unknown,,,B,Browsed,30.0,,,Seedling,R,red_oak,Nature Park
+100,,20,?/?/24,?,R,B,Unknown,,,B,Browsed,20.0,,,Seedling,R,red_oak,Nature Park
+101,,5,?/?/24,?,R,N,Unknown,,,N,Not browsed,5.0,,,Seedling,R,red_oak,Nature Park
+102,,5,?/?/24,?,R,B,Unknown,,,B,Browsed,5.0,,,Seedling,R,red_oak,Nature Park
+103,,15,?/?/24,?,R,B,Unknown,,,B,Browsed,15.0,,,Seedling,R,red_oak,Nature Park
+104,,15,?/?/24,?,R,B,Unknown,,,B,Browsed,15.0,,,Seedling,R,red_oak,Nature Park
+105,,15,?/?/24,?,R,B,Unknown,,,B,Browsed,15.0,,,Seedling,R,red_oak,Nature Park
+106,,15,?/?/24,?,R,B,Unknown,,,B,Browsed,15.0,,,Seedling,R,red_oak,Nature Park
+107,,20,?/?/24,?,R,B,Unknown,,,B,Browsed,20.0,,,Seedling,R,red_oak,Nature Park
+108,,20,?/?/24,?,R,B,Unknown,,,B,Browsed,20.0,,,Seedling,R,red_oak,Nature Park
+109,,15,?/?/24,?,R,N,Unknown,"""Across trail from end of last transect""",,N,Not browsed,15.0,,,Seedling,R,red_oak,Nature Park
+110,,10,?/?/24,?,R,B,Unknown,|,,B,Browsed,10.0,,,Seedling,R,red_oak,Nature Park
+111,,5,?/?/24,?,R,B,Unknown,|,,B,Browsed,5.0,,,Seedling,R,red_oak,Nature Park
+112,,9,?/?/24,?,R,N,Unknown,|,,N,Not browsed,9.0,,,Seedling,R,red_oak,Nature Park
+113,,10,?/?/24,?,R,B,Unknown,|,,B,Browsed,10.0,,,Seedling,R,red_oak,Nature Park
+114,,10,?/?/24,?,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Nature Park
+115,,5,?/?/24,?,R,N,Unknown,↓,,N,Not browsed,5.0,,,Seedling,R,red_oak,Nature Park
+116,,50,?/?/24,?,QUVE,B,Unknown,"""QUVE Check""",,B,Browsed,50.0,,,Seedling,QUVE,red_oak,Nature Park
+117,,45,?/?/24,?,QUVE,N,Unknown,|,,N,Not browsed,45.0,,,Seedling,QUVE,red_oak,Nature Park
+118,,50,?/?/24,?,QUVE,B,Unknown,|,,B,Browsed,50.0,,,Seedling,QUVE,red_oak,Nature Park
+119,,45,?/?/24,?,QUVE,N,Unknown,|,,N,Not browsed,45.0,,,Seedling,QUVE,red_oak,Nature Park
+120,,35,?/?/24,?,QUVE,B,Unknown,|,,B,Browsed,35.0,,,Seedling,QUVE,red_oak,Nature Park
+121,,40,?/?/24,?,QUVE,B,Unknown,|,,B,Browsed,40.0,,,Seedling,QUVE,red_oak,Nature Park
+122,,35,?/?/24,?,QUVE,B,Unknown,|,,B,Browsed,35.0,,,Seedling,QUVE,red_oak,Nature Park
+123,,40,?/?/24,?,QUVE,B,Unknown,|,,B,Browsed,40.0,,,Seedling,QUVE,red_oak,Nature Park
+124,,45,?/?/24,?,QUVE,B,Unknown,|,,B,Browsed,45.0,,,Seedling,QUVE,red_oak,Nature Park
+125,,35,?/?/24,?,QUVE,B,Unknown,↓,,B,Browsed,35.0,,,Seedling,QUVE,red_oak,Nature Park
+126,,20,9/4/24?,Hillside East of W3,R,B,Unknown,,,B,Browsed,20.0,,,Seedling,R,red_oak,Nature Park
+127,,20,9/4/24?,Hillside East of W3,R,B,Unknown,,,B,Browsed,20.0,,,Seedling,R,red_oak,Nature Park
+128,,20,9/4/24?,Hillside East of W3,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Nature Park
+129,,15,9/4/24?,Hillside East of W3,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Nature Park
+130,,15,9/4/24?,Hillside East of W3,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Nature Park
+131,,30,9/4/24?,Hillside East of W3,R,B,Unknown,,,B,Browsed,30.0,,,Seedling,R,red_oak,Nature Park
+132,,25,9/4/24?,Hillside East of W3,R,B,Unknown,,,B,Browsed,25.0,,,Seedling,R,red_oak,Nature Park
+133,,20,9/4/24?,Hillside East of W3,R,B,Unknown,,,B,Browsed,20.0,,,Seedling,R,red_oak,Nature Park
+134,,20,9/4/24?,Hillside East of W3,R,B,Unknown,,,B,Browsed,20.0,,,Seedling,R,red_oak,Nature Park
+135,,15,9/4/24?,Hillside East of W3,R,B,Unknown,,,B,Browsed,15.0,,,Seedling,R,red_oak,Nature Park
+136,,20,9/4/24?,Hillside East of W3,R,B,Unknown,,,B,Browsed,20.0,,,Seedling,R,red_oak,Nature Park
+137,,30,9/4/24?,Hillside East of W3,R,B,Unknown,,,B,Browsed,30.0,,,Seedling,R,red_oak,Nature Park
+138,,20,2024-09-04 00:00:00,W4,R,N,Unknown,"Top of hill, N to S",,N,Not browsed,20.0,,,Seedling,R,red_oak,Nature Park
+139,,20,2024-09-04 00:00:00,W4,R,B,Unknown,,,B,Browsed,20.0,,,Seedling,R,red_oak,Nature Park
+140,,11,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,11.0,,,Seedling,R,red_oak,Nature Park
+141,,21,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,21.0,,,Seedling,R,red_oak,Nature Park
+142,,14,2024-09-04 00:00:00,W4,R,B,Unknown,,,B,Browsed,14.0,,,Seedling,R,red_oak,Nature Park
+143,,3,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,3.0,,,Seedling,R,red_oak,Nature Park
+144,,9,2024-09-04 00:00:00,W4,R,B,Unknown,,,B,Browsed,9.0,,,Seedling,R,red_oak,Nature Park
+145,,20,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Nature Park
+146,,8,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,8.0,,,Seedling,R,red_oak,Nature Park
+147,,17,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,17.0,,,Seedling,R,red_oak,Nature Park
+148,,12,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,12.0,,,Seedling,R,red_oak,Nature Park
+149,,12,2024-09-04 00:00:00,W4,R,B,Unknown,,,B,Browsed,12.0,,,Seedling,R,red_oak,Nature Park
+150,,20,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Nature Park
+151,,11,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,11.0,,,Seedling,R,red_oak,Nature Park
+152,,14,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,14.0,,,Seedling,R,red_oak,Nature Park
+153,,17,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,17.0,,,Seedling,R,red_oak,Nature Park
+154,,20,2024-09-04 00:00:00,W4,R,B,Unknown,,,B,Browsed,20.0,,,Seedling,R,red_oak,Nature Park
+155,,10,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Nature Park
+156,,17,2024-09-04 00:00:00,W4,R,B,Unknown,,,B,Browsed,17.0,,,Seedling,R,red_oak,Nature Park
+157,,13,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,13.0,,,Seedling,R,red_oak,Nature Park
+158,,20,2024-09-04 00:00:00,W4,R,B,Unknown,,,B,Browsed,20.0,,,Seedling,R,red_oak,Nature Park
+159,,25,2024-09-04 00:00:00,W4,R,B,Unknown,,,B,Browsed,25.0,,,Seedling,R,red_oak,Nature Park
+160,,10,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Nature Park
+161,,18,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,18.0,,,Seedling,R,red_oak,Nature Park
+162,,12,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,12.0,,,Seedling,R,red_oak,Nature Park
+163,,12,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,12.0,,,Seedling,R,red_oak,Nature Park
+164,,10,2024-09-04 00:00:00,W4,R,B,Unknown,,,B,Browsed,10.0,,,Seedling,R,red_oak,Nature Park
+165,,10,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Nature Park
+166,,14,2024-09-04 00:00:00,W4,R,B,Unknown,,,B,Browsed,14.0,,,Seedling,R,red_oak,Nature Park
+167,,15,2024-09-04 00:00:00,W4,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Nature Park
+168,,10,2024-09-15 00:00:00,Fern Station,W,N,Unknown,Transect 1,,N,Not browsed,10.0,,,Seedling,W,white_oak,Fern Station
+169,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+170,,7,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,7.0,,,Seedling,W,white_oak,Fern Station
+171,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+172,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+173,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+174,,18,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,18.0,,,Seedling,R,red_oak,Fern Station
+175,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+176,,15,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,W,white_oak,Fern Station
+177,,10,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,10.0,,,Seedling,R,red_oak,Fern Station
+178,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+179,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+180,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+181,,15,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,15.0,,,Seedling,R,red_oak,Fern Station
+182,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+183,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+184,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+185,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+186,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+187,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+188,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+189,,25,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,25.0,,,Seedling,R,red_oak,Fern Station
+190,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+191,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+192,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+193,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+194,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+195,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+196,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+197,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+198,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+199,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+200,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+201,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+202,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+203,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+204,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+205,,25,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,25.0,,,Seedling,R,red_oak,Fern Station
+206,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+207,,15,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,15.0,,,Seedling,R,red_oak,Fern Station
+208,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+209,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+210,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+211,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+212,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+213,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+214,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+215,,15,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,15.0,,,Seedling,R,red_oak,Fern Station
+216,,10,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,W,white_oak,Fern Station
+217,,10,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,W,white_oak,Fern Station
+218,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+219,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+220,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+221,,8,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,8.0,,,Seedling,R,red_oak,Fern Station
+222,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+223,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+224,,15,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,W,white_oak,Fern Station
+225,,10,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,W,white_oak,Fern Station
+226,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+227,,20,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,W,white_oak,Fern Station
+228,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+229,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+230,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+231,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+232,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+233,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+234,,25,2024-09-15 00:00:00,Fern Station,R,N,Unknown,↓,,N,Not browsed,25.0,,,Seedling,R,red_oak,Fern Station
+235,,20,2024-09-15 00:00:00,Fern Station,W,N,Unknown,Transect 2,,N,Not browsed,20.0,,,Seedling,W,white_oak,Fern Station
+236,,20,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,W,white_oak,Fern Station
+237,,10,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,W,white_oak,Fern Station
+238,,25,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,25.0,,,Seedling,R,red_oak,Fern Station
+239,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+240,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+241,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+242,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+243,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+244,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+245,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+246,,10,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,W,white_oak,Fern Station
+247,,15,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,W,white_oak,Fern Station
+248,,10,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,W,white_oak,Fern Station
+249,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+250,,20,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,W,white_oak,Fern Station
+251,,20,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,W,white_oak,Fern Station
+252,,20,2024-09-15 00:00:00,Fern Station,W,B,Unknown,|,,B,Browsed,20.0,,,Seedling,W,white_oak,Fern Station
+253,,10,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,W,white_oak,Fern Station
+254,,20,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,W,white_oak,Fern Station
+255,,15,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,W,white_oak,Fern Station
+256,,20,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,W,white_oak,Fern Station
+257,,25,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,25.0,,,Seedling,R,red_oak,Fern Station
+258,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+259,,20,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,20.0,,,Seedling,R,red_oak,Fern Station
+260,,30,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,30.0,,,Seedling,R,red_oak,Fern Station
+261,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+262,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,↓,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+263,,15,2024-09-15 00:00:00,Fern Station,W,N,Unknown,Transect 4,,N,Not browsed,15.0,,,Seedling,W,white_oak,Fern Station
+264,,20,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,20.0,,,Seedling,R,red_oak,Fern Station
+265,,20,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,20.0,,,Seedling,R,red_oak,Fern Station
+266,,20,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,20.0,,,Seedling,R,red_oak,Fern Station
+267,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+268,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+269,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+270,,25,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,25.0,,,Seedling,R,red_oak,Fern Station
+271,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+272,,25,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,25.0,,,Seedling,R,red_oak,Fern Station
+273,,35,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,35.0,,,Seedling,R,red_oak,Fern Station
+274,,30,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,30.0,,,Seedling,R,red_oak,Fern Station
+275,,20,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,20.0,,,Seedling,R,red_oak,Fern Station
+276,,25,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,25.0,,,Seedling,R,red_oak,Fern Station
+277,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+278,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+279,,20,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,20.0,,,Seedling,R,red_oak,Fern Station
+280,,30,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,30.0,,,Seedling,R,red_oak,Fern Station
+281,,20,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,20.0,,,Seedling,R,red_oak,Fern Station
+282,,30,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,30.0,,,Seedling,R,red_oak,Fern Station
+283,,35,2024-09-15 00:00:00,Fern Station,W,B,Unknown,|,,B,Browsed,35.0,,,Seedling,W,white_oak,Fern Station
+284,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+285,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+286,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+287,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+288,,30,2024-09-15 00:00:00,Fern Station,W,B,Unknown,|,,B,Browsed,30.0,,,Seedling,W,white_oak,Fern Station
+289,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+290,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+291,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+292,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+293,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+294,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+295,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+296,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+297,,15,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,15.0,,,Seedling,R,red_oak,Fern Station
+298,,25,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,25.0,,,Seedling,R,red_oak,Fern Station
+299,,20,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,20.0,,,Seedling,R,red_oak,Fern Station
+300,,25,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,25.0,,,Seedling,R,red_oak,Fern Station
+301,,30,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,30.0,,,Seedling,R,red_oak,Fern Station
+302,,30,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,30.0,,,Seedling,R,red_oak,Fern Station
+303,,20,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,W,white_oak,Fern Station
+304,,25,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,25.0,,,Seedling,R,red_oak,Fern Station
+305,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+306,,30,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,30.0,,,Seedling,R,red_oak,Fern Station
+307,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+308,,10,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,10.0,,,Seedling,R,red_oak,Fern Station
+309,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+310,,5,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,5.0,,,Seedling,R,red_oak,Fern Station
+311,,30,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,30.0,,,Seedling,R,red_oak,Fern Station
+312,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+313,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+314,,10,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+315,,25,2024-09-15 00:00:00,Fern Station,W,N,Unknown,|,,N,Not browsed,25.0,,,Seedling,W,white_oak,Fern Station
+316,,30,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,30.0,,,Seedling,R,red_oak,Fern Station
+317,,35,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,35.0,,,Seedling,R,red_oak,Fern Station
+318,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+319,,15,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,15.0,,,Seedling,R,red_oak,Fern Station
+320,,20,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,20.0,,,Seedling,R,red_oak,Fern Station
+321,,25,2024-09-15 00:00:00,Fern Station,R,B,Unknown,|,,B,Browsed,25.0,,,Seedling,R,red_oak,Fern Station
+322,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+323,,25,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,25.0,,,Seedling,R,red_oak,Fern Station
+324,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+325,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+326,,20,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+327,,25,2024-09-15 00:00:00,Fern Station,R,N,Unknown,|,,N,Not browsed,25.0,,,Seedling,R,red_oak,Fern Station
+328,,15,2024-09-15 00:00:00,Fern Station,R,N,Unknown,↓,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+329,,15,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+330,,12,2024-09-19 00:00:00,W2,QURU,N,Unknown,,,N,Not browsed,12.0,,,Seedling,QURU,red_oak,Nature Park
+331,,10,2024-09-19 00:00:00,W2,QURU,N,Unknown,,,N,Not browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+332,,10,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+333,,25,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,25.0,,,Seedling,QURU,red_oak,Nature Park
+334,,10,2024-09-19 00:00:00,W2,QURU,N,Unknown,,,N,Not browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+335,,10,2024-09-19 00:00:00,W2,QURU,N,Unknown,,,N,Not browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+336,,10,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+337,,10,2024-09-19 00:00:00,W2,QURU,N,Unknown,,,N,Not browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+338,,20,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+339,,10,2024-09-19 00:00:00,W2,QURU,N,Unknown,,,N,Not browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+340,,10,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+341,,10,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+342,,5,2024-09-19 00:00:00,W2,QURU,N,Unknown,,,N,Not browsed,5.0,,,Seedling,QURU,red_oak,Nature Park
+343,,15,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+344,,20,2024-09-19 00:00:00,W2,QURU,N,Unknown,,,N,Not browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+345,,10,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+346,,10,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+347,,10,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+348,,10,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+349,,15,2024-09-19 00:00:00,W2,QURU,N,Unknown,,,N,Not browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+350,,20,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+351,,15,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+352,,30,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,30.0,,,Seedling,QURU,red_oak,Nature Park
+353,,15,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+354,,20,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+355,,20,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+356,,20,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+357,,15,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+358,,35,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,35.0,,,Seedling,QURU,red_oak,Nature Park
+359,,15,2024-09-19 00:00:00,W2,QURU,N,Unknown,,,N,Not browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+360,,15,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+361,,20,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+362,,25,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,25.0,,,Seedling,QURU,red_oak,Nature Park
+363,,10,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+364,,20,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+365,,10,2024-09-19 00:00:00,W2,QURU,N,Unknown,,,N,Not browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+366,,25,2024-09-19 00:00:00,W2,QURU,N,Unknown,,,N,Not browsed,25.0,,,Seedling,QURU,red_oak,Nature Park
+367,,15,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+368,,20,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+369,,20,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+370,,30,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,30.0,,,Seedling,QURU,red_oak,Nature Park
+371,,15,2024-09-19 00:00:00,W2,QURU,N,Unknown,,,N,Not browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+372,,10,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+373,,20,2024-09-19 00:00:00,W2,QURU,B,Unknown,,,B,Browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+374,,10,2024-09-19 00:00:00,W2,QURU,N,Unknown,,,N,Not browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+375,,15,2024-09-22 00:00:00,Sassafrass Hill,QURU,B,Unknown,,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+376,,25,2024-09-22 00:00:00,Sassafrass Hill,QURU,B,Unknown,,,B,Browsed,25.0,,,Seedling,QURU,red_oak,Nature Park
+377,,25,2024-09-22 00:00:00,Sassafrass Hill,QURU,B,Unknown,,,B,Browsed,25.0,,,Seedling,QURU,red_oak,Nature Park
+378,,25,2024-09-22 00:00:00,Sassafrass Hill,QURU,N,Unknown,,,N,Not browsed,25.0,,,Seedling,QURU,red_oak,Nature Park
+379,,30,2024-09-22 00:00:00,Sassafrass Hill,QURU,N,Unknown,,,N,Not browsed,30.0,,,Seedling,QURU,red_oak,Nature Park
+380,,30,2024-09-22 00:00:00,Sassafrass Hill,QURU,N,Unknown,,,N,Not browsed,30.0,,,Seedling,QURU,red_oak,Nature Park
+381,,20,2024-09-22 00:00:00,Sassafrass Hill,QURU,B,Unknown,,,B,Browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+382,,15,2024-09-22 00:00:00,Sassafrass Hill,QURU,N,Unknown,,,N,Not browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+383,,20,2024-09-22 00:00:00,Sassafrass Hill,QURU,N,Unknown,,,N,Not browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+384,,25,2024-09-22 00:00:00,Sassafrass Hill,QURU,B,Unknown,,,B,Browsed,25.0,,,Seedling,QURU,red_oak,Nature Park
+385,,10,2024-09-22 00:00:00,Sassafrass Hill,QURU,N,Unknown,,,N,Not browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+386,,20,2024-09-22 00:00:00,Sassafrass Hill,QURU,N,Unknown,,,N,Not browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+387,,15,2024-09-22 00:00:00,Sassafrass Hill,QURU,B,Unknown,,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+388,,20,2024-09-22 00:00:00,Sassafrass Hill,QURU,N,Unknown,,,N,Not browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+389,,15,2024-09-22 00:00:00,Sassafrass Hill,QURU,B,Unknown,,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+390,,15,2024-09-22 00:00:00,Sassafrass Hill,QURU,B,Unknown,,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+391,,15,2024-09-22 00:00:00,Sassafrass Hill,QURU,B,Unknown,,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+392,,20,2024-09-22 00:00:00,Sassafrass Hill,QURU,N,Unknown,,,N,Not browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+393,,15,2024-09-22 00:00:00,Sassafrass Hill,QURU,N,Unknown,,,N,Not browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+394,,20,2024-09-22 00:00:00,Sassafrass Hill,QURU,N,Unknown,,,N,Not browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+395,,20,2024-09-22 00:00:00,Sassafrass Hill,QURU,N,Unknown,,,N,Not browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+396,,10,2024-09-22 00:00:00,Sassafrass Hill,QURU,N,Unknown,,,N,Not browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+397,,10,2024-09-22 00:00:00,Sassafrass Hill,QURU,N,Unknown,,,N,Not browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+398,,10,2024-09-22 00:00:00,Sassafrass Hill,QURU,N,Unknown,,,N,Not browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+399,,20,2024-09-22 00:00:00,Sassafrass Hill,QURU,B,Unknown,,,B,Browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+400,,15,2024-09-22 00:00:00,Sassafrass Hill,QURU,B,Unknown,,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+401,,25,2024-09-22 00:00:00,SHS,QURU,B,Unknown,SHS = Sassafrass Hill South,,B,Browsed,25.0,,,Seedling,QURU,red_oak,Nature Park
+402,,15,2024-09-22 00:00:00,SHS,QURU,N,Unknown,,,N,Not browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+403,,20,2024-09-22 00:00:00,SHS,QURU,B,Unknown,,,B,Browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+404,,25,2024-09-22 00:00:00,SHS,QURU,B,Unknown,,,B,Browsed,25.0,,,Seedling,QURU,red_oak,Nature Park
+405,,10,2024-09-22 00:00:00,SHS,QURU,N,Unknown,,,N,Not browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+406,,10,2024-09-22 00:00:00,SHS,QURU,B,Unknown,,,B,Browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+407,,15,2024-09-22 00:00:00,SHS,QURU,N,Unknown,,,N,Not browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+408,,20,2024-09-22 00:00:00,SHS,QURU,N,Unknown,,,N,Not browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+409,,20,2024-09-22 00:00:00,SHS,QURU,N,Unknown,,,N,Not browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+410,,22,2024-09-22 00:00:00,SHS,QURU,N,Unknown,,,N,Not browsed,22.0,,,Seedling,QURU,red_oak,Nature Park
+411,,15,2024-09-22 00:00:00,SHS,QURU,N,Unknown,,,N,Not browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+412,,17,2024-09-22 00:00:00,SHS,QURU,B,Unknown,,,B,Browsed,17.0,,,Seedling,QURU,red_oak,Nature Park
+413,,10,2024-09-22 00:00:00,SHS,QURU,B,Unknown,,,B,Browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+414,,10,2024-09-26 00:00:00,South Quarry Forest,QURU,N,Unknown,Transect A,,N,Not browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+415,,10,2024-09-26 00:00:00,South Quarry Forest,QURU,N,Unknown,Transect A,,N,Not browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+416,,15,2024-09-26 00:00:00,South Quarry Forest,QURU,B,Unknown,Transect A,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+417,,25,2024-09-26 00:00:00,South Quarry Forest,QURU,N,Unknown,Transect A,,N,Not browsed,25.0,,,Seedling,QURU,red_oak,Nature Park
+418,,10,2024-09-26 00:00:00,South Quarry Forest,QURU,B,Unknown,Transect A,,B,Browsed,10.0,,,Seedling,QURU,red_oak,Nature Park
+419,,15,2024-09-26 00:00:00,South Quarry Forest,QURU,N,Unknown,Transect B,,N,Not browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+420,,15,2024-09-26 00:00:00,South Quarry Forest,QURU,N,Unknown,Transect B,,N,Not browsed,15.0,,,Seedling,QURU,red_oak,Nature Park
+421,,20,2024-09-26 00:00:00,South Quarry Forest,QURU,N,Unknown,Transect B,,N,Not browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+422,,20,2024-09-26 00:00:00,South Quarry Forest,QURU,N,Unknown,Transect B,,N,Not browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+423,,20,2024-09-26 00:00:00,South Quarry Forest,QURU,N,Unknown,Transect B,,N,Not browsed,20.0,,,Seedling,QURU,red_oak,Nature Park
+424,,12,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,Transect C (at Fern Station),,N,Not browsed,12.0,,,Seedling,QUAL,white_oak,Fern Station
+425,,13,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,13.0,,,Seedling,QUAL,white_oak,Fern Station
+426,,14,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,14.0,,,Seedling,QUAL,white_oak,Fern Station
+427,,30,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,30.0,,,Seedling,QUAL,white_oak,Fern Station
+428,,25,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,25.0,,,Seedling,QUAL,white_oak,Fern Station
+429,,26,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,26.0,,,Seedling,QUAL,white_oak,Fern Station
+430,,20,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,20.0,,,Seedling,QUAL,white_oak,Fern Station
+431,,15,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,15.0,,,Seedling,QUAL,white_oak,Fern Station
+432,,15,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,QUAL,white_oak,Fern Station
+433,,19,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,19.0,,,Seedling,QUAL,white_oak,Fern Station
+434,,18,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,18.0,,,Seedling,QUAL,white_oak,Fern Station
+435,,20,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,QUAL,white_oak,Fern Station
+436,,18,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,18.0,,,Seedling,QUAL,white_oak,Fern Station
+437,,15,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,15.0,,,Seedling,QUAL,white_oak,Fern Station
+438,,12,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,12.0,,,Seedling,QUAL,white_oak,Fern Station
+439,,26,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,26.0,,,Seedling,QUAL,white_oak,Fern Station
+440,,10,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,QUAL,white_oak,Fern Station
+441,,12,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,12.0,,,Seedling,QUAL,white_oak,Fern Station
+442,,12,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,12.0,,,Seedling,QUAL,white_oak,Fern Station
+443,,18,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,18.0,,,Seedling,QUAL,white_oak,Fern Station
+444,,43,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,43.0,,,Seedling,QUAL,white_oak,Fern Station
+445,,27,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,27.0,,,Seedling,QUAL,white_oak,Fern Station
+446,,14,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,14.0,,,Seedling,QUAL,white_oak,Fern Station
+447,,15,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,QUAL,white_oak,Fern Station
+448,,22,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,22.0,,,Seedling,QUAL,white_oak,Fern Station
+449,,48,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,48.0,,,Seedling,QUAL,white_oak,Fern Station
+450,,20,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,QUAL,white_oak,Fern Station
+451,,17,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,|,,N,Not browsed,17.0,,,Seedling,QURU,red_oak,Fern Station
+452,,25,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,25.0,,,Seedling,QUAL,white_oak,Fern Station
+453,,13,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,13.0,,,Seedling,QUAL,white_oak,Fern Station
+454,,31,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,31.0,,,Seedling,QUAL,white_oak,Fern Station
+455,,35,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,35.0,,,Seedling,QUAL,white_oak,Fern Station
+456,,25,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,25.0,,,Seedling,QUAL,white_oak,Fern Station
+457,,23,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,23.0,,,Seedling,QUAL,white_oak,Fern Station
+458,,21,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,21.0,,,Seedling,QUAL,white_oak,Fern Station
+459,,11,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,11.0,,,Seedling,QUAL,white_oak,Fern Station
+460,,13,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,13.0,,,Seedling,QUAL,white_oak,Fern Station
+461,,28,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,28.0,,,Seedling,QUAL,white_oak,Fern Station
+462,,15,2024-09-29 00:00:00,Fern Station,QURU,B,Unknown,|,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Fern Station
+463,,18,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,18.0,,,Seedling,QUAL,white_oak,Fern Station
+464,,18,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,18.0,,,Seedling,QUAL,white_oak,Fern Station
+465,,10,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,QUAL,white_oak,Fern Station
+466,,21,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,21.0,,,Seedling,QUAL,white_oak,Fern Station
+467,,30,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,30.0,,,Seedling,QUAL,white_oak,Fern Station
+468,,12,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,|,,N,Not browsed,12.0,,,Seedling,QURU,red_oak,Fern Station
+469,,7,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,7.0,,,Seedling,QUAL,white_oak,Fern Station
+470,,13,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,13.0,,,Seedling,QUAL,white_oak,Fern Station
+471,,15,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,15.0,,,Seedling,QUAL,white_oak,Fern Station
+472,,12,2024-09-29 00:00:00,Fern Station,QURU,B,Unknown,|,,B,Browsed,12.0,,,Seedling,QURU,red_oak,Fern Station
+473,,30,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,30.0,,,Seedling,QUAL,white_oak,Fern Station
+474,,13,2024-09-29 00:00:00,Fern Station,QURU,B,Unknown,|,,B,Browsed,13.0,,,Seedling,QURU,red_oak,Fern Station
+475,,17,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,17.0,,,Seedling,QUAL,white_oak,Fern Station
+476,,21,2024-09-29 00:00:00,Fern Station,QUAL,N,Unknown,|,,N,Not browsed,21.0,,,Seedling,QUAL,white_oak,Fern Station
+477,,18,2024-09-29 00:00:00,Fern Station,QURU,B,Unknown,|,,B,Browsed,18.0,,,Seedling,QURU,red_oak,Fern Station
+478,,16,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,|,,N,Not browsed,16.0,,,Seedling,QURU,red_oak,Fern Station
+479,,17,2024-09-29 00:00:00,Fern Station,QUAL,B,Unknown,|,,B,Browsed,17.0,,,Seedling,QUAL,white_oak,Fern Station
+480,,12,2024-09-29 00:00:00,Fern Station,QURU,B,Unknown,|,,B,Browsed,12.0,,,Seedling,QURU,red_oak,Fern Station
+481,,18,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,|,,N,Not browsed,18.0,,,Seedling,QURU,red_oak,Fern Station
+482,,18,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,|,,N,Not browsed,18.0,,,Seedling,QURU,red_oak,Fern Station
+483,,9,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,|,,N,Not browsed,9.0,,,Seedling,QURU,red_oak,Fern Station
+484,,10,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,|,,N,Not browsed,10.0,,,Seedling,QURU,red_oak,Fern Station
+485,,18,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,|,,N,Not browsed,18.0,,,Seedling,QURU,red_oak,Fern Station
+486,,20,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,|,,N,Not browsed,20.0,,,Seedling,QURU,red_oak,Fern Station
+487,,25,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,↓,,N,Not browsed,25.0,,,Seedling,QURU,red_oak,Fern Station
+488,,20,2024-09-29 00:00:00,Fern Station,QURU,B,Unknown,"other 1/2 of 10x20, only checked for QURU",,B,Browsed,20.0,,,Seedling,QURU,red_oak,Fern Station
+489,,17,2024-09-29 00:00:00,Fern Station,QURU,B,Unknown,|,,B,Browsed,17.0,,,Seedling,QURU,red_oak,Fern Station
+490,,18,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,|,,N,Not browsed,18.0,,,Seedling,QURU,red_oak,Fern Station
+491,,14,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,|,,N,Not browsed,14.0,,,Seedling,QURU,red_oak,Fern Station
+492,,12,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,|,,N,Not browsed,12.0,,,Seedling,QURU,red_oak,Fern Station
+493,,17,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,|,,N,Not browsed,17.0,,,Seedling,QURU,red_oak,Fern Station
+494,,14,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,|,,N,Not browsed,14.0,,,Seedling,QURU,red_oak,Fern Station
+495,,15,2024-09-29 00:00:00,Fern Station,QURU,N,Unknown,↓,,N,Not browsed,15.0,,,Seedling,QURU,red_oak,Fern Station
+496,,12,2024-09-30 00:00:00,Fern Station,QUAL,N,Unknown,,,N,Not browsed,12.0,,,Seedling,QUAL,white_oak,Fern Station
+497,,13,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,13.0,,,Seedling,NAN,non_oak,Fern Station
+498,,14,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,14.0,,,Seedling,NAN,non_oak,Fern Station
+499,,30,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,30.0,,,Seedling,NAN,non_oak,Fern Station
+500,,25,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,25.0,,,Seedling,NAN,non_oak,Fern Station
+501,,26,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,26.0,,,Seedling,NAN,non_oak,Fern Station
+502,,20,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,20.0,,,Seedling,NAN,non_oak,Fern Station
+503,,15,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,15.0,,,Seedling,NAN,non_oak,Fern Station
+504,,15,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,15.0,,,Seedling,NAN,non_oak,Fern Station
+505,,19,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,19.0,,,Seedling,NAN,non_oak,Fern Station
+506,,18,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,18.0,,,Seedling,NAN,non_oak,Fern Station
+507,,20,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,20.0,,,Seedling,NAN,non_oak,Fern Station
+508,,18,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,18.0,,,Seedling,NAN,non_oak,Fern Station
+509,,15,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,15.0,,,Seedling,NAN,non_oak,Fern Station
+510,,12,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,12.0,,,Seedling,NAN,non_oak,Fern Station
+511,,26,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,26.0,,,Seedling,NAN,non_oak,Fern Station
+512,,10,2024-09-30 00:00:00,Fern Station,QUAL,N,Unknown,,,N,Not browsed,10.0,,,Seedling,QUAL,white_oak,Fern Station
+513,,12,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,12.0,,,Seedling,NAN,non_oak,Fern Station
+514,,12,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,12.0,,,Seedling,NAN,non_oak,Fern Station
+515,,18,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,18.0,,,Seedling,NAN,non_oak,Fern Station
+516,,13,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,13.0,,,Seedling,NAN,non_oak,Fern Station
+517,,27,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,27.0,,,Seedling,NAN,non_oak,Fern Station
+518,,14,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,14.0,,,Seedling,NAN,non_oak,Fern Station
+519,,15,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,15.0,,,Seedling,NAN,non_oak,Fern Station
+520,,22,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,22.0,,,Seedling,NAN,non_oak,Fern Station
+521,,48,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,48.0,,,Seedling,NAN,non_oak,Fern Station
+522,,20,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,20.0,,,Seedling,NAN,non_oak,Fern Station
+523,,17,2024-09-30 00:00:00,Fern Station,QURU,N,Unknown,,,N,Not browsed,17.0,,,Seedling,QURU,red_oak,Fern Station
+524,,25,2024-09-30 00:00:00,Fern Station,QUAL,B,Unknown,,,B,Browsed,25.0,,,Seedling,QUAL,white_oak,Fern Station
+525,,13,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,13.0,,,Seedling,NAN,non_oak,Fern Station
+526,,31,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,31.0,,,Seedling,NAN,non_oak,Fern Station
+527,,35,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,35.0,,,Seedling,NAN,non_oak,Fern Station
+528,,25,2024-09-30 00:00:00,Fern Station,QUAL,B,Unknown,,,B,Browsed,25.0,,,Seedling,QUAL,white_oak,Fern Station
+529,,23,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,23.0,,,Seedling,NAN,non_oak,Fern Station
+530,,21,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,21.0,,,Seedling,NAN,non_oak,Fern Station
+531,,11,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,11.0,,,Seedling,NAN,non_oak,Fern Station
+532,,13,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,13.0,,,Seedling,NAN,non_oak,Fern Station
+533,,28,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,28.0,,,Seedling,NAN,non_oak,Fern Station
+534,,15,2024-09-30 00:00:00,Fern Station,QURU,B,Unknown,,,B,Browsed,15.0,,,Seedling,QURU,red_oak,Fern Station
+535,,18,2024-09-30 00:00:00,Fern Station,QUAL,B,Unknown,,,B,Browsed,18.0,,,Seedling,QUAL,white_oak,Fern Station
+536,,18,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,18.0,,,Seedling,NAN,non_oak,Fern Station
+537,,10,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,10.0,,,Seedling,NAN,non_oak,Fern Station
+538,,21,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,21.0,,,Seedling,NAN,non_oak,Fern Station
+539,,30,2024-09-30 00:00:00,Fern Station,nan,B,Unknown,,,B,Browsed,30.0,,,Seedling,NAN,non_oak,Fern Station
+540,,12,2024-09-30 00:00:00,Fern Station,QURU,N,Unknown,,,N,Not browsed,12.0,,,Seedling,QURU,red_oak,Fern Station
+541,,7,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,7.0,,,Seedling,NAN,non_oak,Fern Station
+542,,13,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,13.0,,,Seedling,NAN,non_oak,Fern Station
+543,,15,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,15.0,,,Seedling,NAN,non_oak,Fern Station
+544,,12,2024-09-30 00:00:00,Fern Station,QURU,B,Unknown,,,B,Browsed,12.0,,,Seedling,QURU,red_oak,Fern Station
+545,,30,2024-09-30 00:00:00,Fern Station,QUAL,B,Unknown,,,B,Browsed,30.0,,,Seedling,QUAL,white_oak,Fern Station
+546,,13,2024-09-30 00:00:00,Fern Station,QURU,B,Unknown,,,B,Browsed,13.0,,,Seedling,QURU,red_oak,Fern Station
+547,,17,2024-09-30 00:00:00,Fern Station,QUAL,N,Unknown,,,N,Not browsed,17.0,,,Seedling,QUAL,white_oak,Fern Station
+548,,21,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,21.0,,,Seedling,NAN,non_oak,Fern Station
+549,,18,2024-09-30 00:00:00,Fern Station,QURU,B,Unknown,,,B,Browsed,18.0,,,Seedling,QURU,red_oak,Fern Station
+550,,16,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,16.0,,,Seedling,NAN,non_oak,Fern Station
+551,,17,2024-09-30 00:00:00,Fern Station,QUAL,B,Unknown,,,B,Browsed,17.0,,,Seedling,QUAL,white_oak,Fern Station
+552,,12,2024-09-30 00:00:00,Fern Station,QURU,B,Unknown,,,B,Browsed,12.0,,,Seedling,QURU,red_oak,Fern Station
+553,,18,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,18.0,,,Seedling,NAN,non_oak,Fern Station
+554,,18,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,18.0,,,Seedling,NAN,non_oak,Fern Station
+555,,9,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,9.0,,,Seedling,NAN,non_oak,Fern Station
+556,,10,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,10.0,,,Seedling,NAN,non_oak,Fern Station
+557,,18,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,18.0,,,Seedling,NAN,non_oak,Fern Station
+558,,20,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,20.0,,,Seedling,NAN,non_oak,Fern Station
+559,,15,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,15.0,,,Seedling,NAN,non_oak,Fern Station
+560,,20,2024-09-30 00:00:00,Fern Station,nan,N,Unknown,,,N,Not browsed,20.0,,,Seedling,NAN,non_oak,Fern Station
+561,,46,2024-09-30 00:00:00,Fern Station,QUAL,Unknown,Unknown,,,Unknown,Unknown,46.0,,,Seedling,QUAL,white_oak,Fern Station
+562,,11,2024-09-30 00:00:00,Fern Station,QURU,Unknown,Unknown,,,Unknown,Unknown,11.0,,,Seedling,QURU,red_oak,Fern Station
+563,71,,2024-10-06 00:00:00,W3 Transect,Unknown,Unknown,Unknown,,,Unknown,Unknown,,71.0,,Adult,UNKNOWN,non_oak,Nature Park
+564,15,,2024-10-06 00:00:00,W3 Transect,Unknown,Unknown,Unknown,,,Unknown,Unknown,,15.0,,Unknown,UNKNOWN,non_oak,Nature Park
+565,68,,2024-10-06 00:00:00,W3 Transect,Unknown,Unknown,Unknown,,,Unknown,Unknown,,68.0,,Adult,UNKNOWN,non_oak,Nature Park
+566,77,,2024-10-06 00:00:00,W3 Transect,Unknown,Unknown,Unknown,,,Unknown,Unknown,,77.0,,Adult,UNKNOWN,non_oak,Nature Park
+567,66,,2024-10-06 00:00:00,W3 Transect,Unknown,Unknown,Unknown,,,Unknown,Unknown,,66.0,,Adult,UNKNOWN,non_oak,Nature Park
+568,38,,2024-10-06 00:00:00,W3 Transect,Unknown,Unknown,Unknown,,,Unknown,Unknown,,38.0,,Adult,UNKNOWN,non_oak,Nature Park
+569,42,,2024-10-06 00:00:00,W3 Transect,Unknown,Unknown,Unknown,,,Unknown,Unknown,,42.0,,Adult,UNKNOWN,non_oak,Nature Park
+570,69,,2024-10-06 00:00:00,W3 Transect,Unknown,Unknown,Unknown,,,Unknown,Unknown,,69.0,,Adult,UNKNOWN,non_oak,Nature Park
+571,31,,2024-10-06 00:00:00,W3 Transect,Unknown,Unknown,Unknown,,,Unknown,Unknown,,31.0,,Adult,UNKNOWN,non_oak,Nature Park
+572,46,,2024-10-06 00:00:00,W3 Transect,Unknown,Unknown,Unknown,,,Unknown,Unknown,,46.0,,Adult,UNKNOWN,non_oak,Nature Park
+573,28,,2024-10-06 00:00:00,W3 Transect,Unknown,Unknown,Unknown,,,Unknown,Unknown,,28.0,,Adult,UNKNOWN,non_oak,Nature Park
+574,48,,2024-10-06 00:00:00,W3 Transect,Unknown,Unknown,Unknown,,,Unknown,Unknown,,48.0,,Adult,UNKNOWN,non_oak,Nature Park
+575,34,,2024-10-06 00:00:00,W3 Transect,Unknown,Unknown,Unknown,,,Unknown,Unknown,,34.0,,Adult,UNKNOWN,non_oak,Nature Park
+576,33,,2024-10-06 00:00:00,W3 Transect,Unknown,Unknown,Unknown,,,Unknown,Unknown,,33.0,,Adult,UNKNOWN,non_oak,Nature Park
+577,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,"""Transect D""",,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+578,,20,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,20.0,,,Seedling,W,white_oak,Fern Station
+579,,10,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,10.0,,,Seedling,W,white_oak,Fern Station
+580,,15,2024-10-06 00:00:00,Fern Station,R,B,Unknown,,,B,Browsed,15.0,,,Seedling,R,red_oak,Fern Station
+581,,10,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,10.0,,,Seedling,W,white_oak,Fern Station
+582,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+583,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+584,,5,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,5.0,,,Seedling,R,red_oak,Fern Station
+585,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+586,,10,2024-10-06 00:00:00,Fern Station,W,B,Unknown,,,B,Browsed,10.0,,,Seedling,W,white_oak,Fern Station
+587,,10,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,10.0,,,Seedling,W,white_oak,Fern Station
+588,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+589,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+590,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+591,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+592,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+593,,10,2024-10-06 00:00:00,Fern Station,W,B,Unknown,,,B,Browsed,10.0,,,Seedling,W,white_oak,Fern Station
+594,,5,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,5.0,,,Seedling,R,red_oak,Fern Station
+595,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+596,,20,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,20.0,,,Seedling,W,white_oak,Fern Station
+597,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+598,,15,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,15.0,,,Seedling,W,white_oak,Fern Station
+599,,10,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,10.0,,,Seedling,W,white_oak,Fern Station
+600,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+601,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+602,,15,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,15.0,,,Seedling,W,white_oak,Fern Station
+603,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+604,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+605,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+606,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+607,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+608,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+609,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+610,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+611,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+612,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+613,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+614,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+615,,10,2024-10-06 00:00:00,Fern Station,R,B,Unknown,,,B,Browsed,10.0,,,Seedling,R,red_oak,Fern Station
+616,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+617,,15,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,15.0,,,Seedling,W,white_oak,Fern Station
+618,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+619,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+620,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+621,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+622,,15,2024-10-06 00:00:00,Fern Station,R,B,Unknown,,,B,Browsed,15.0,,,Seedling,R,red_oak,Fern Station
+623,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+624,,10,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,10.0,,,Seedling,W,white_oak,Fern Station
+625,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+626,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+627,,15,2024-10-06 00:00:00,Fern Station,W,B,Unknown,,,B,Browsed,15.0,,,Seedling,W,white_oak,Fern Station
+628,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+629,,15,2024-10-06 00:00:00,Fern Station,R,B,Unknown,,,B,Browsed,15.0,,,Seedling,R,red_oak,Fern Station
+630,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+631,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+632,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+633,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+634,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+635,,5,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,5.0,,,Seedling,R,red_oak,Fern Station
+636,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+637,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+638,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+639,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+640,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+641,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+642,,10,2024-10-06 00:00:00,Fern Station,R,B,Unknown,,,B,Browsed,10.0,,,Seedling,R,red_oak,Fern Station
+643,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+644,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+645,,5,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,5.0,,,Seedling,R,red_oak,Fern Station
+646,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+647,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+648,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+649,,15,2024-10-06 00:00:00,Fern Station,R,B,Unknown,,,B,Browsed,15.0,,,Seedling,R,red_oak,Fern Station
+650,,20,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,20.0,,,Seedling,W,white_oak,Fern Station
+651,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+652,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+653,,10,2024-10-06 00:00:00,Fern Station,R,B,Unknown,,,B,Browsed,10.0,,,Seedling,R,red_oak,Fern Station
+654,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+655,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+656,,20,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,20.0,,,Seedling,W,white_oak,Fern Station
+657,,15,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,15.0,,,Seedling,W,white_oak,Fern Station
+658,,30,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,30.0,,,Seedling,W,white_oak,Fern Station
+659,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+660,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+661,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+662,,20,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,20.0,,,Seedling,W,white_oak,Fern Station
+663,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+664,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+665,,20,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,20.0,,,Seedling,R,red_oak,Fern Station
+666,,15,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,15.0,,,Seedling,W,white_oak,Fern Station
+667,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+668,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+669,,25,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,25.0,,,Seedling,R,red_oak,Fern Station
+670,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+671,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+672,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+673,,10,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,10.0,,,Seedling,W,white_oak,Fern Station
+674,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+675,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+676,,10,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,10.0,,,Seedling,R,red_oak,Fern Station
+677,,15,2024-10-06 00:00:00,Fern Station,R,N,Unknown,,,N,Not browsed,15.0,,,Seedling,R,red_oak,Fern Station
+678,,10,2024-10-06 00:00:00,Fern Station,W,N,Unknown,,,N,Not browsed,10.0,,,Seedling,W,white_oak,Fern Station
+679,73,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,"""Big Trees Around Transect C/D""",,Unknown,Unknown,,73.0,,Adult,R,red_oak,Fern Station
+680,82,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,82.0,,Adult,R,red_oak,Fern Station
+681,41,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,41.0,,Adult,W,white_oak,Fern Station
+682,78,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,78.0,,Adult,W,white_oak,Fern Station
+683,77,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,77.0,,Adult,R,red_oak,Fern Station
+684,60,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,60.0,,Adult,W,white_oak,Fern Station
+685,66,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,66.0,,Adult,R,red_oak,Fern Station
+686,45,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,45.0,,Adult,W,white_oak,Fern Station
+687,51,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,51.0,,Adult,R,red_oak,Fern Station
+688,48,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,48.0,,Adult,W,white_oak,Fern Station
+689,44,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,44.0,,Adult,W,white_oak,Fern Station
+690,50,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,50.0,,Adult,R,red_oak,Fern Station
+691,57,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,57.0,,Adult,W,white_oak,Fern Station
+692,63,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,63.0,,Adult,W,white_oak,Fern Station
+693,64,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,64.0,,Adult,W,white_oak,Fern Station
+694,72,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,72.0,,Adult,R,red_oak,Fern Station
+695,64,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,64.0,,Adult,W,white_oak,Fern Station
+696,66,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,66.0,,Adult,R,red_oak,Fern Station
+697,42,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,42.0,,Adult,W,white_oak,Fern Station
+698,54,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,54.0,,Adult,W,white_oak,Fern Station
+699,68,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,68.0,,Adult,W,white_oak,Fern Station
+700,67,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,67.0,,Adult,R,red_oak,Fern Station
+701,62,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,62.0,,Adult,W,white_oak,Fern Station
+702,60,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,60.0,,Adult,W,white_oak,Fern Station
+703,45,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,45.0,,Adult,W,white_oak,Fern Station
+704,78,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,78.0,,Adult,R,red_oak,Fern Station
+705,73,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,73.0,,Adult,W,white_oak,Fern Station
+706,60,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,60.0,,Adult,W,white_oak,Fern Station
+707,49,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,49.0,,Adult,W,white_oak,Fern Station
+708,47,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,47.0,,Adult,W,white_oak,Fern Station
+709,52,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,52.0,,Adult,W,white_oak,Fern Station
+710,78,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,78.0,,Adult,W,white_oak,Fern Station
+711,81,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,81.0,,Adult,R,red_oak,Fern Station
+712,38,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,38.0,,Adult,W,white_oak,Fern Station
+713,52,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,52.0,,Adult,W,white_oak,Fern Station
+714,71,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,71.0,,Adult,R,red_oak,Fern Station
+715,87,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,"""Whole hillside around and above Transect B""",,Unknown,Unknown,,87.0,,Adult,R,red_oak,Fern Station
+716,73,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,73.0,,Adult,R,red_oak,Fern Station
+717,13,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,13.0,,Unknown,R,red_oak,Fern Station
+718,23,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,23.0,,Adult,R,red_oak,Fern Station
+719,18,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,18.0,,Adult,R,red_oak,Fern Station
+720,62,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,62.0,,Adult,R,red_oak,Fern Station
+721,7,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,7.0,,Unknown,R,red_oak,Fern Station
+722,42,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,42.0,,Adult,R,red_oak,Fern Station
+723,9,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,9.0,,Unknown,W,white_oak,Fern Station
+724,35,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,35.0,,Adult,R,red_oak,Fern Station
+725,12,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,12.0,,Unknown,R,red_oak,Fern Station
+726,13,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,13.0,,Unknown,R,red_oak,Fern Station
+727,6,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,6.0,,Unknown,W,white_oak,Fern Station
+728,8,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,8.0,,Unknown,W,white_oak,Fern Station
+729,57,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,57.0,,Adult,R,red_oak,Fern Station
+730,15,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,15.0,,Unknown,R,red_oak,Fern Station
+731,15,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,15.0,,Unknown,R,red_oak,Fern Station
+732,59,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,59.0,,Adult,R,red_oak,Fern Station
+733,25,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,25.0,,Adult,R,red_oak,Fern Station
+734,44,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,44.0,,Adult,W,white_oak,Fern Station
+735,16,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,16.0,,Unknown,R,red_oak,Fern Station
+736,16,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,16.0,,Unknown,R,red_oak,Fern Station
+737,38,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,38.0,,Adult,R,red_oak,Fern Station
+738,17,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,17.0,,Unknown,R,red_oak,Fern Station
+739,77,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,77.0,,Adult,W,white_oak,Fern Station
+740,7,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,7.0,,Unknown,R,red_oak,Fern Station
+741,23,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,23.0,,Adult,W,white_oak,Fern Station
+742,8,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,8.0,,Unknown,R,red_oak,Fern Station
+743,16,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,16.0,,Unknown,R,red_oak,Fern Station
+744,40,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,40.0,,Adult,R,red_oak,Fern Station
+745,11,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,11.0,,Unknown,R,red_oak,Fern Station
+746,12,,2024-10-06 00:00:00,Fern Station,Chinqupin,Unknown,Unknown,,,Unknown,Unknown,,12.0,,Unknown,CHINQUPIN,non_oak,Fern Station
+747,13,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,13.0,,Unknown,R,red_oak,Fern Station
+748,11,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,11.0,,Unknown,R,red_oak,Fern Station
+749,12,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,12.0,,Unknown,R,red_oak,Fern Station
+750,29,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,29.0,,Adult,R,red_oak,Fern Station
+751,49,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,49.0,,Adult,W,white_oak,Fern Station
+752,12,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,12.0,,Unknown,R,red_oak,Fern Station
+753,15,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,15.0,,Unknown,R,red_oak,Fern Station
+754,21,,2024-10-06 00:00:00,Fern Station,R,Unknown,Unknown,,,Unknown,Unknown,,21.0,,Adult,R,red_oak,Fern Station
+755,37,,2024-10-06 00:00:00,Fern Station,W,Unknown,Unknown,,,Unknown,Unknown,,37.0,,Adult,W,white_oak,Fern Station
+756,23,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,23.0,,Adult,R,red_oak,Nature Park
+757,16,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,16.0,,Unknown,R,red_oak,Nature Park
+758,28,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,28.0,,Adult,R,red_oak,Nature Park
+759,52,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,52.0,,Adult,R,red_oak,Nature Park
+760,50,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,50.0,,Adult,R,red_oak,Nature Park
+761,51,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,51.0,,Adult,R,red_oak,Nature Park
+762,21,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,21.0,,Adult,R,red_oak,Nature Park
+763,25,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,25.0,,Adult,R,red_oak,Nature Park
+764,10,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,10.0,,Unknown,R,red_oak,Nature Park
+765,58,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,58.0,,Adult,R,red_oak,Nature Park
+766,18,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,18.0,,Adult,R,red_oak,Nature Park
+767,19,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,19.0,,Adult,R,red_oak,Nature Park
+768,27,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,27.0,,Adult,R,red_oak,Nature Park
+769,37,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,37.0,,Adult,R,red_oak,Nature Park
+770,45,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,45.0,,Adult,R,red_oak,Nature Park
+771,31,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,31.0,,Adult,R,red_oak,Nature Park
+772,12,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,12.0,,Unknown,R,red_oak,Nature Park
+773,37,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,37.0,,Adult,R,red_oak,Nature Park
+774,38,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,38.0,,Adult,R,red_oak,Nature Park
+775,20,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,20.0,,Adult,R,red_oak,Nature Park
+776,33,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,33.0,,Adult,R,red_oak,Nature Park
+777,19,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,19.0,,Adult,R,red_oak,Nature Park
+778,16,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,16.0,,Unknown,R,red_oak,Nature Park
+779,14,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,14.0,,Unknown,R,red_oak,Nature Park
+780,23,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,23.0,,Adult,R,red_oak,Nature Park
+781,35,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,35.0,,Adult,R,red_oak,Nature Park
+782,24,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,24.0,,Adult,R,red_oak,Nature Park
+783,29,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,29.0,,Adult,R,red_oak,Nature Park
+784,25,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,25.0,,Adult,R,red_oak,Nature Park
+785,25,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,25.0,,Adult,R,red_oak,Nature Park
+786,32,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,32.0,,Adult,R,red_oak,Nature Park
+787,26,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,26.0,,Adult,R,red_oak,Nature Park
+788,16,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,16.0,,Unknown,R,red_oak,Nature Park
+789,17,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,17.0,,Unknown,R,red_oak,Nature Park
+790,27,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,27.0,,Adult,R,red_oak,Nature Park
+791,64,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,64.0,,Adult,R,red_oak,Nature Park
+792,43,,2024-10-10 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,43.0,,Adult,R,red_oak,Nature Park
+793,64,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,"""QURU around transect b/w rail and streamside trails""",,Unknown,Unknown,,64.0,,Adult,R,red_oak,Nature Park
+794,51,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,"""Note: we found 0 seedlings here a few weeks ago""",,Unknown,Unknown,,51.0,,Adult,R,red_oak,Nature Park
+795,48,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,,,Unknown,Unknown,,48.0,,Adult,R,red_oak,Nature Park
+796,58,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,,,Unknown,Unknown,,58.0,,Adult,R,red_oak,Nature Park
+797,51,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,,,Unknown,Unknown,,51.0,,Adult,R,red_oak,Nature Park
+798,32,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,,,Unknown,Unknown,,32.0,,Adult,R,red_oak,Nature Park
+799,11,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,,,Unknown,Unknown,,11.0,,Unknown,R,red_oak,Nature Park
+800,31,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,,,Unknown,Unknown,,31.0,,Adult,R,red_oak,Nature Park
+801,29,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,,,Unknown,Unknown,,29.0,,Adult,R,red_oak,Nature Park
+802,9.5,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,,,Unknown,Unknown,,9.5,,Unknown,R,red_oak,Nature Park
+803,20,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,,,Unknown,Unknown,,20.0,,Adult,R,red_oak,Nature Park
+804,87,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,,,Unknown,Unknown,,87.0,,Adult,R,red_oak,Nature Park
+805,88,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,,,Unknown,Unknown,,88.0,,Adult,R,red_oak,Nature Park
+806,37,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,,,Unknown,Unknown,,37.0,,Adult,R,red_oak,Nature Park
+807,65,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,,,Unknown,Unknown,,65.0,,Adult,R,red_oak,Nature Park
+808,77,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,,,Unknown,Unknown,,77.0,,Adult,R,red_oak,Nature Park
+809,65,,2024-10-24 00:00:00,b/w rail and streamside,R,Unknown,Unknown,,,Unknown,Unknown,,65.0,,Adult,R,red_oak,Nature Park
+810,14,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,"""W2 diameter of red oak""",,Unknown,Unknown,,14.0,,Unknown,R,red_oak,Nature Park
+811,15,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,15.0,,Unknown,R,red_oak,Nature Park
+812,44,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,44.0,,Adult,R,red_oak,Nature Park
+813,40,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,40.0,,Adult,R,red_oak,Nature Park
+814,23,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,23.0,,Adult,R,red_oak,Nature Park
+815,28,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,28.0,,Adult,R,red_oak,Nature Park
+816,26,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,26.0,,Adult,R,red_oak,Nature Park
+817,10,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,10.0,,Unknown,R,red_oak,Nature Park
+818,28,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,28.0,,Adult,R,red_oak,Nature Park
+819,41,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,41.0,,Adult,R,red_oak,Nature Park
+820,33,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,33.0,,Adult,R,red_oak,Nature Park
+821,31,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,31.0,,Adult,R,red_oak,Nature Park
+822,31,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,31.0,,Adult,R,red_oak,Nature Park
+823,23,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,23.0,,Adult,R,red_oak,Nature Park
+824,29,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,29.0,,Adult,R,red_oak,Nature Park
+825,16,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,16.0,,Unknown,R,red_oak,Nature Park
+826,29,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,29.0,,Adult,R,red_oak,Nature Park
+827,37,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,37.0,,Adult,R,red_oak,Nature Park
+828,11,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,11.0,,Unknown,R,red_oak,Nature Park
+829,9,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,9.0,,Unknown,R,red_oak,Nature Park
+830,24,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,24.0,,Adult,R,red_oak,Nature Park
+831,26,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,26.0,,Adult,R,red_oak,Nature Park
+832,20,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,20.0,,Adult,R,red_oak,Nature Park
+833,19,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,19.0,,Adult,R,red_oak,Nature Park
+834,35,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,35.0,,Adult,R,red_oak,Nature Park
+835,34,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,34.0,,Adult,R,red_oak,Nature Park
+836,44,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,44.0,,Adult,R,red_oak,Nature Park
+837,40,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,40.0,,Adult,R,red_oak,Nature Park
+838,18,,2024-10-24 00:00:00,W2,QUVE,Unknown,Unknown,,,Unknown,Unknown,,18.0,,Adult,QUVE,red_oak,Nature Park
+839,9,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,9.0,,Unknown,R,red_oak,Nature Park
+840,23,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,23.0,,Adult,R,red_oak,Nature Park
+841,42,,2024-10-24 00:00:00,W2,R,Unknown,Unknown,,,Unknown,Unknown,,42.0,,Adult,R,red_oak,Nature Park
+842,62,,2024-10-24 00:00:00,W4: Top of Hill,nan,Unknown,Unknown,53.04761904761905,,Unknown,Unknown,,62.0,,Adult,NAN,non_oak,Nature Park
+843,26,,2024-10-24 00:00:00,W4: Top of Hill,nan,Unknown,Unknown,58.28571428571428,,Unknown,Unknown,,26.0,,Adult,NAN,non_oak,Nature Park
+844,67,,2024-10-24 00:00:00,W4: Top of Hill,nan,Unknown,Unknown,,,Unknown,Unknown,,67.0,,Adult,NAN,non_oak,Nature Park
+845,41,,2024-10-24 00:00:00,W4: Top of Hill,nan,Unknown,Unknown,,,Unknown,Unknown,,41.0,,Adult,NAN,non_oak,Nature Park
+846,54,,2024-10-24 00:00:00,W4: Top of Hill,nan,Unknown,Unknown,,,Unknown,Unknown,,54.0,,Adult,NAN,non_oak,Nature Park
+847,33,,2024-10-24 00:00:00,W4: Top of Hill,nan,Unknown,Unknown,,,Unknown,Unknown,,33.0,,Adult,NAN,non_oak,Nature Park
+848,25,,2024-10-24 00:00:00,W4: Top of Hill,nan,Unknown,Unknown,,,Unknown,Unknown,,25.0,,Adult,NAN,non_oak,Nature Park
+849,65,,2024-10-24 00:00:00,W4: Top of Hill,nan,Unknown,Unknown,,,Unknown,Unknown,,65.0,,Adult,NAN,non_oak,Nature Park
+850,38,,2024-10-24 00:00:00,W4: Top of Hill,nan,Unknown,Unknown,,,Unknown,Unknown,,38.0,,Adult,NAN,non_oak,Nature Park
+851,57,,2024-10-24 00:00:00,W4: Top of Hill,nan,Unknown,Unknown,,,Unknown,Unknown,,57.0,,Adult,NAN,non_oak,Nature Park
+852,79,,2024-10-24 00:00:00,W4: Top of Hill,nan,Unknown,Unknown,,,Unknown,Unknown,,79.0,,Adult,NAN,non_oak,Nature Park
+853,30,,2024-10-24 00:00:00,W4: Top of Hill,nan,Unknown,Unknown,,,Unknown,Unknown,,30.0,,Adult,NAN,non_oak,Nature Park
+854,65,,2024-10-24 00:00:00,W4: Top of Hill,nan,Unknown,Unknown,,,Unknown,Unknown,,65.0,,Adult,NAN,non_oak,Nature Park
+855,64,,2024-10-24 00:00:00,W4: Top of Hill,nan,Unknown,Unknown,,,Unknown,Unknown,,64.0,,Adult,NAN,non_oak,Nature Park
+856,81,,2024-10-24 00:00:00,W4: Near Planted Black Oaks,nan,Unknown,Unknown,,,Unknown,Unknown,,81.0,,Adult,NAN,non_oak,Nature Park
+857,67,,2024-10-24 00:00:00,W4: Near Planted Black Oaks,nan,Unknown,Unknown,,,Unknown,Unknown,,67.0,,Adult,NAN,non_oak,Nature Park
+858,57,,2024-10-24 00:00:00,W4: Near Planted Black Oaks,nan,Unknown,Unknown,,,Unknown,Unknown,,57.0,,Adult,NAN,non_oak,Nature Park
+859,67,,2024-10-24 00:00:00,W4: Near Planted Black Oaks,nan,Unknown,Unknown,,,Unknown,Unknown,,67.0,,Adult,NAN,non_oak,Nature Park
+860,31,,2024-10-24 00:00:00,W4: Near Planted Black Oaks,nan,Unknown,Unknown,,,Unknown,Unknown,,31.0,,Adult,NAN,non_oak,Nature Park
+861,54,,2024-10-24 00:00:00,W4: Near Planted Black Oaks,nan,Unknown,Unknown,,,Unknown,Unknown,,54.0,,Adult,NAN,non_oak,Nature Park
+862,51,,2024-10-24 00:00:00,W4: Near Planted Black Oaks,nan,Unknown,Unknown,,,Unknown,Unknown,,51.0,,Adult,NAN,non_oak,Nature Park
+863,62,,2024-10-29 00:00:00,nan,R,Unknown,Unknown,"""sm QUAL near here?""",,Unknown,Unknown,,62.0,,Adult,R,red_oak,Nature Park
+864,26,,2024-10-29 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,26.0,,Adult,R,red_oak,Nature Park
+865,67,,2024-10-29 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,67.0,,Adult,R,red_oak,Nature Park
+866,41,,2024-10-29 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,41.0,,Adult,R,red_oak,Nature Park
+867,59,,2024-10-29 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,59.0,,Adult,R,red_oak,Nature Park
+868,33,,2024-10-29 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,33.0,,Adult,R,red_oak,Nature Park
+869,25,,2024-10-29 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,25.0,,Adult,R,red_oak,Nature Park
+870,65,,2024-10-29 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,65.0,,Adult,R,red_oak,Nature Park
+871,38,,2024-10-29 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,38.0,,Adult,R,red_oak,Nature Park
+872,57,,2024-10-29 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,57.0,,Adult,R,red_oak,Nature Park
+873,79,,2024-10-29 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,79.0,,Adult,R,red_oak,Nature Park
+874,30,,2024-10-29 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,30.0,,Adult,R,red_oak,Nature Park
+875,63,,2024-10-29 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,63.0,,Adult,R,red_oak,Nature Park
+876,69,,2024-10-29 00:00:00,nan,R,Unknown,Unknown,,,Unknown,Unknown,,69.0,,Adult,R,red_oak,Nature Park
+877,81,,2024-10-29 00:00:00,W4,R,Unknown,Unknown,"""other W4 transect""",,Unknown,Unknown,,81.0,,Adult,R,red_oak,Nature Park
+878,67,,2024-10-29 00:00:00,W4,R,Unknown,Unknown,,,Unknown,Unknown,,67.0,,Adult,R,red_oak,Nature Park
+879,57,,2024-10-29 00:00:00,W4,R,Unknown,Unknown,,,Unknown,Unknown,,57.0,,Adult,R,red_oak,Nature Park
+880,67,,2024-10-29 00:00:00,W4,R,Unknown,Unknown,,,Unknown,Unknown,,67.0,,Adult,R,red_oak,Nature Park
+881,31,,2024-10-29 00:00:00,W4,R,Unknown,Unknown,10.13265306122449,,Unknown,Unknown,,31.0,,Adult,R,red_oak,Nature Park
+882,54,,2024-10-29 00:00:00,W4,R,Unknown,Unknown,,,Unknown,Unknown,,54.0,,Adult,R,red_oak,Nature Park
+883,51,,2024-10-29 00:00:00,W4,R,Unknown,Unknown,,,Unknown,Unknown,,51.0,,Adult,R,red_oak,Nature Park
+884,9,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,"N ?° 37' 57.85'', W ?° 53' 0.85""",1st 10m,Canopy Score: 8,Unknown,Unknown,,9.0,,Unknown,NAN,non_oak,Nature Park
+885,5 (cut down),,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,,Unknown,Unknown,,,,Unknown,NAN,non_oak,Nature Park
+886,16,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,↓,|,Unknown,Unknown,,16.0,,Unknown,NAN,non_oak,Nature Park
+887,,,2024 11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,2nd 10m,|,Unknown,Unknown,,,,Unknown,NAN,non_oak,Nature Park
+888,3,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,3rd 10m,|,Unknown,Unknown,,3.0,,Unknown,NAN,non_oak,Nature Park
+889,1.5,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,1.5,,Unknown,NAN,non_oak,Nature Park
+890,8,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,↓,↓,Unknown,Unknown,,8.0,,Unknown,NAN,non_oak,Nature Park
+891,10,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,"N ?° ?' 59.0', W ?° ?' 2.3""",4th 10m,Canopy Score: 8,Unknown,Unknown,,10.0,,Unknown,NAN,non_oak,Nature Park
+892,1,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,1.0,,Unknown,NAN,non_oak,Nature Park
+893,10,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,10.0,,Unknown,NAN,non_oak,Nature Park
+894,7,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,7.0,,Unknown,NAN,non_oak,Nature Park
+895,7,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,↓,|,Unknown,Unknown,,7.0,,Unknown,NAN,non_oak,Nature Park
+896,3.5,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,5th 10m,|,Unknown,Unknown,,3.5,,Unknown,NAN,non_oak,Nature Park
+897,7,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,7.0,,Unknown,NAN,non_oak,Nature Park
+898,8,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,8.0,,Unknown,NAN,non_oak,Nature Park
+899,3.5,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,3.5,,Unknown,NAN,non_oak,Nature Park
+900,1.5,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,↓,|,Unknown,Unknown,,1.5,,Unknown,NAN,non_oak,Nature Park
+901,3,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,6th 10m,|,Unknown,Unknown,,3.0,,Unknown,NAN,non_oak,Nature Park
+902,10,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,10.0,,Unknown,NAN,non_oak,Nature Park
+903,12,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,12.0,,Unknown,NAN,non_oak,Nature Park
+904,6,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,↓,↓,Unknown,Unknown,,6.0,,Unknown,NAN,non_oak,Nature Park
+905,14,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,?,7th 10m,Canopy Score: 7.5,Unknown,Unknown,,14.0,,Unknown,NAN,non_oak,Nature Park
+906,12,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,12.0,,Unknown,NAN,non_oak,Nature Park
+907,8,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,8.0,,Unknown,NAN,non_oak,Nature Park
+908,18,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,↓,|,Unknown,Unknown,,18.0,,Adult,NAN,non_oak,Nature Park
+909,16,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,8th 10m,|,Unknown,Unknown,,16.0,,Unknown,NAN,non_oak,Nature Park
+910,14,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,14.0,,Unknown,NAN,non_oak,Nature Park
+911,12,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,↓,|,Unknown,Unknown,,12.0,,Unknown,NAN,non_oak,Nature Park
+912,16,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,9th 10m,|,Unknown,Unknown,,16.0,,Unknown,NAN,non_oak,Nature Park
+913,11,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,↓,↓,Unknown,Unknown,,11.0,,Unknown,NAN,non_oak,Nature Park
+914,14,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,"N ?° ?' 59.95'', W ?° ?' 3.8""",10th 10m,Canopy Score: 7 ,Unknown,Unknown,,14.0,,Unknown,NAN,non_oak,Nature Park
+915,11,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,11.0,,Unknown,NAN,non_oak,Nature Park
+916,9,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,9.0,,Unknown,NAN,non_oak,Nature Park
+917,10,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,10.0,,Unknown,NAN,non_oak,Nature Park
+918,8,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,8.0,,Unknown,NAN,non_oak,Nature Park
+919,12,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,12.0,,Unknown,NAN,non_oak,Nature Park
+920,9,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,9.0,,Unknown,NAN,non_oak,Nature Park
+921,13,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,↓,|,Unknown,Unknown,,13.0,,Unknown,NAN,non_oak,Nature Park
+922,,,2024 11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,11th 10m,|,Unknown,Unknown,,,,Unknown,NAN,non_oak,Nature Park
+923,18,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,12th 10m,↓,Unknown,Unknown,,18.0,,Adult,NAN,non_oak,Nature Park
+924,12,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,"N ?° ?' 0.65'', W ?° ?' 5.45""",13th 10m,Canopy Score: 7,Unknown,Unknown,,12.0,,Unknown,NAN,non_oak,Nature Park
+925,,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,,14th 10m,|,Unknown,Unknown,,,,Unknown,NAN,non_oak,Nature Park
+926,,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,,15th10m,↓,Unknown,Unknown,,,,Unknown,NAN,non_oak,Nature Park
+927,15,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,"N ?° ?' 1.8'', W ?° ?' 6.95""",16th 10m,Canopy Score: 7,Unknown,Unknown,,15.0,,Unknown,NAN,non_oak,Nature Park
+928,17,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,↓,|,Unknown,Unknown,,17.0,,Unknown,NAN,non_oak,Nature Park
+929,,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,,17th 10m,|,Unknown,Unknown,,,,Unknown,NAN,non_oak,Nature Park
+930,,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,,18th 10m,↓,Unknown,Unknown,,,,Unknown,NAN,non_oak,Nature Park
+931,14,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,?,19th 10m,Canopy Score: 6,Unknown,Unknown,,14.0,,Unknown,NAN,non_oak,Nature Park
+932,5.5,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,5.5,,Unknown,NAN,non_oak,Nature Park
+933,11,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,11.0,,Unknown,NAN,non_oak,Nature Park
+934,9,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,9.0,,Unknown,NAN,non_oak,Nature Park
+935,8,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,8.0,,Unknown,NAN,non_oak,Nature Park
+936,9,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,↓,|,Unknown,Unknown,,9.0,,Unknown,NAN,non_oak,Nature Park
+937,9,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,20th 10m,|,Unknown,Unknown,,9.0,,Unknown,NAN,non_oak,Nature Park
+938,17,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,17.0,,Unknown,NAN,non_oak,Nature Park
+939,18,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,18.0,,Adult,NAN,non_oak,Nature Park
+940,6*,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,|,|,Unknown,Unknown,,,,Unknown,NAN,non_oak,Nature Park
+941,15*,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,↓,|,Unknown,Unknown,,,,Unknown,NAN,non_oak,Nature Park
+942,12*,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,Unknown,21st 10m,↓,Unknown,Unknown,,,,Unknown,NAN,non_oak,Nature Park
+943,,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,?,22nd 10m,Canopy Score: 6,Unknown,Unknown,,,,Unknown,NAN,non_oak,Nature Park
+944,,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,,23rd 10m,|,Unknown,Unknown,,,,Unknown,NAN,non_oak,Nature Park
+945,,,2024-11-24 00:00:00,W2 Hillside,nan,Unknown,,24th 10m,↓,Unknown,Unknown,,,,Unknown,NAN,non_oak,Nature Park
